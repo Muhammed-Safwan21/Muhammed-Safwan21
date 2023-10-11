@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-safwan21&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-safwan21" /> </p>
 
-- 🔭 I’m currently working on [MERN Blood Bank webapp](https://github.com/Muhammed-Safwan21/blood-bank-mern-app)
+- 🔭 I’m currently working on [BlackBoard - Mern App](https://github.com/Muhammed-Safwan21/blackbard-CMS)
 
 - 🌱 I’m currently learning **Typescript, NEXT Js**
 
