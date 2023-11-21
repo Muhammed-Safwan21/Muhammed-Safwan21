@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript, NEXT Js**
 
-- 👨‍💻 All of my projects are available at [http://Muhammed-Safwan21.github.io/personal-portfolio](http://Muhammed-Safwan21.github.io/personal-portfolio)
+<!-- - 👨‍💻 All of my projects are available at [http://Muhammed-Safwan21.github.io/personal-portfolio](http://Muhammed-Safwan21.github.io/personal-portfolio) -->
 
 - 💬 Ask me about **MERN**
 
