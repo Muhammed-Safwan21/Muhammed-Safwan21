@@ -6,9 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-safwan21&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-safwan21" /> </p>
 
-- 🔭 I’m currently working on [BlackBoard - Mern App](https://github.com/Muhammed-Safwan21/blackbard-CMS)
 
-- 🌱 I’m currently learning **Typescript, NEXT Js**
+- 🌱 I’m currently learning **Typescript, Nest Js , PostgreSQL**
 
 <!-- - 👨‍💻 All of my projects are available at [http://Muhammed-Safwan21.github.io/personal-portfolio](http://Muhammed-Safwan21.github.io/personal-portfolio) -->
 
